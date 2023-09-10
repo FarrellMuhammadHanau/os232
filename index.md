@@ -1,2 +1,2 @@
 # OS232
-|| [LOG](TXT/mylog.txt) || [GitHub](https://github.com/FarrellMuhammadHanau/os232) || [LINKS](https://github.com/FarrellMuhammadHanau/os232/LINKS/) ||
+|| [LOG](TXT/mylog.txt) || [GitHub](https://github.com/FarrellMuhammadHanau/os232) || [LINKS](LINKS/) ||
