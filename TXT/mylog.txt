@@ -16,3 +16,7 @@ ZCZC W02 100 L02 Tuesday Class
 ZCZC W02 100 L02 Thursday Class
 ZCZC W02 130 L05 Quiz related including studying
 ZCZC W02 120 L12 Assignment #02
+ZCZC W03 100 L02 Tuesday Class
+ZCZC W03 60 L02 Thursday Class Via ZOOM
+ZCZC W03 130 L05 Quiz related including studying
+ZCZC W03 120 L13 Assignment #03
