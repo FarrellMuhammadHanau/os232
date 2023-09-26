@@ -6,5 +6,8 @@ permalink: LINKS/
 * [Vim in 8 Minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4) --- Beginners friendly and easy to understand Vim Tutorial.
 * [Bash Scripting Course](https://www.youtube.com/watch?v=tK9Oc6AEnR4) --- Explain basic bash command and how to make a bash script in an easily digestible language.
 * [Asymmetric Encryption Explained](https://www.youtube.com/watch?v=AQDCe585Lnc) --- Explain asymmetric encryption and why it's preferred over symmetric enryption.
+* [Makefile for Beginner](https://www.youtube.com/watch?v=_r7i5X0rXJk) --- Explain what is Makefile and how to use it to automate C/C++ compilation
+* [Filesystem in 3 Minutes](https://www.youtube.com/watch?v=mzUyMy7Ihk0) --- Brief explanation about concepts in filesystem
+* [File Allocation Method] --- Explain methods used when allocating memory for a file, complete with its pros and cons
 <br>
 <hr>
