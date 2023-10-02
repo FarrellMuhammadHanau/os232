@@ -8,6 +8,7 @@ permalink: LINKS/
 * [Asymmetric Encryption Explained](https://www.youtube.com/watch?v=AQDCe585Lnc) --- Explain asymmetric encryption and why it's preferred over symmetric enryption.
 * [Makefile for Beginner](https://www.youtube.com/watch?v=_r7i5X0rXJk) --- Explain what is Makefile and how to use it to automate C/C++ compilation
 * [Filesystem in 3 Minutes](https://www.youtube.com/watch?v=mzUyMy7Ihk0) --- Brief explanation about concepts in filesystem
-* [File Allocation Method] --- Explain methods used when allocating memory for a file, complete with its pros and cons
+* [File Allocation Method](https://www.youtube.com/watch?v=gK6L3v1b8AM&t=473s) --- Explain methods used when allocating memory for a file, complete with its pros and cons
+* [Static vs Shared Library](https://www.youtube.com/watch?v=-vp9cFQCQCo) --- This video explain the difference between static and shared library
 <br>
 <hr>
