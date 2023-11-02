@@ -11,7 +11,7 @@ permalink: LINKS/
 * [File Allocation Method](https://www.youtube.com/watch?v=gK6L3v1b8AM&t=473s) --- Explain methods used when allocating memory for a file, complete with its pros and cons
 * [Static vs Shared Library](https://www.youtube.com/watch?v=-vp9cFQCQCo) --- This video explain the difference between static and shared library
 * [Virtual Memory Explanation](https://www.youtube.com/watch?v=NPhcwfnYZd8) --- This video explain about what is a virtual memory and how it works
-* [Fork In C] (https://www.youtube.com/watch?v=cex9XrZCU14) --- Explain what is fork function in C and how it works
-* [Shared Memory in C] (https://www.youtube.com/watch?v=rPV6b8BUwxM) --- Brief Explaination about how to create shared memory in C
+* [Fork In C](https://www.youtube.com/watch?v=cex9XrZCU14) --- Explain what is fork function in C and how it works
+* [Shared Memory in C](https://www.youtube.com/watch?v=rPV6b8BUwxM) --- Brief Explaination about how to create shared memory in C
 <br>
 <hr>
