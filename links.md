@@ -13,5 +13,7 @@ permalink: LINKS/
 * [Virtual Memory Explanation](https://www.youtube.com/watch?v=NPhcwfnYZd8) --- This video explain about what is a virtual memory and how it works
 * [Fork In C](https://www.youtube.com/watch?v=cex9XrZCU14) --- Explain what is fork function in C and how it works
 * [Shared Memory in C](https://www.youtube.com/watch?v=rPV6b8BUwxM) --- Brief Explaination about how to create shared memory in C
+* [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y) --- Explain what is process synchronization and it's background
+* [Deadlock in OS](https://www.youtube.com/watch?v=onkWXaXAgbY) --- Brief explanation about what is deadlock in operating system
 <br>
 <hr>
