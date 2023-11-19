@@ -17,3 +17,6 @@ ZCZC W06 henrysoed
 ZCZC W07 syifakaffa
 ZCZC W07 Vv-kK
 ZCZC W07 NtapSlur
+ZCZC W08 dimashn04
+ZCZC W08 PascalPahlevi
+ZCZC W08 MightyZanark

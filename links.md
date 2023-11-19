@@ -15,5 +15,6 @@ permalink: LINKS/
 * [Shared Memory in C](https://www.youtube.com/watch?v=rPV6b8BUwxM) --- Brief Explaination about how to create shared memory in C
 * [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y) --- Explain what is process synchronization and it's background
 * [Deadlock in OS](https://www.youtube.com/watch?v=onkWXaXAgbY) --- Brief explanation about what is deadlock in operating system
+* [CPU Scheduling in OS](https://www.youtube.com/watch?v=Jkmy2YLUbUY) --- This video explain about CPU Scheduling in operating system
 <br>
 <hr>
