@@ -16,5 +16,6 @@ permalink: LINKS/
 * [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y) --- Explain what is process synchronization and it's background
 * [Deadlock in OS](https://www.youtube.com/watch?v=onkWXaXAgbY) --- Brief explanation about what is deadlock in operating system
 * [CPU Scheduling in OS](https://www.youtube.com/watch?v=Jkmy2YLUbUY) --- This video explain about CPU Scheduling in operating system
+* [Hard Disk Architecture](https://www.youtube.com/watch?v=m1oNigNpT5M) --- This video explain about Hard Disk Architecture especially Magnetic Disk Architecture
 <br>
 <hr>
